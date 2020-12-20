@@ -1,5 +1,7 @@
 ///// User Authentication /////
 
+console.log(firebase);
+
 const auth = firebase.auth();
 
 const whenSignedIn = document.getElementById('whenSignedIn');
